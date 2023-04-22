@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>resume.html</title>
 <center>
 <h1>RESUME</h1>
 </center>
